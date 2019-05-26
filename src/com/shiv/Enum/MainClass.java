@@ -1,4 +1,4 @@
-package com;
+package com.shiv.Enum;
 
 public class MainClass {
 

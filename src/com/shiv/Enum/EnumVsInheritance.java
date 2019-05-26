@@ -1,4 +1,4 @@
-package com;
+package com.shiv.Enum;
 
 /* * enum Vs Inheritance
  * Every enum in java Child class of java.lang.Enum. Hence we can't extend any other enum.

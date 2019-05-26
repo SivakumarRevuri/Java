@@ -1,4 +1,4 @@
-package com;
+package com.shiv.Enum;
 
 /*
  * A group of named constants called as enum
